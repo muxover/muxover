@@ -1,0 +1,24 @@
+{
+  "name": "Muxover - Your Favorite Developer Doctor",
+  "short_name": "Muxover",
+  "description": "Hey! I'm Muxover, a developer and medical student from Egypt. I love building cool stuff and making websites!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#7b1ce7",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
+
