@@ -1,79 +1,80 @@
-<h1 align="center">Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Jax</h1>
-<h3 align="center">A Medicine Student, Self-taught Programmer & Technology Researcher</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=7B1CE7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Muxover+👋;Developer+%26+Medical+Student+🏥💻;Your+Favorite+Developer+Doctor+😎" alt="Typing SVG" />
+</div>
 
-<h3 align="left">Languages&Tools:</h3>
-<!-- Languages  -->
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-<img src="https://img.shields.io/badge/Csharp-512bd4?style=for-the-badge&logo=Csharp&logoColor=white" />
-</a>
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=muxover&color=7b1ce7&style=for-the-badge&label=PROFILE+VIEWS)
+  
+  [![GitHub followers](https://img.shields.io/github/followers/muxover?logo=github&style=for-the-badge&color=7b1ce7&labelColor=0d1117)](https://github.com/muxover)
+  [![GitHub stars](https://img.shields.io/github/stars/muxover?logo=github&style=for-the-badge&color=7b1ce7&labelColor=0d1117)](https://github.com/muxover)
+  
+</div>
 
-<a href="https://www.python.org" target="_blank">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-</a>
+---
 
-<a href="https://golang.org" target="_blank">
-<img src="https://img.shields.io/badge/Golang-79d4fd?style=for-the-badge&logo=go&logoColor=white" />
-</a>
+## 👨‍💻 About Me
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://img.shields.io/badge/Javascript-fcdc00?style=for-the-badge&logo=Javascript&logoColor=white" />
-</a>
+```typescript
+const muxover = {
+  name: "Muxover",
+  age: 20,
+  location: "Egypt 🇪🇬",
+  title: "Developer & Medical Student",
+  company: "Founder @ Jax Development LLC",
+  email: "muxover@jax-development.com",
+  website: "https://muxover.is-a.dev/",
+  yearsCoding: new Date().getFullYear() - 2019,
+  interests: [
+    "Networking & Infrastructure",
+    "Cloud Engineering",
+    "Web Development",
+    "Automated Systems",
+    "Medical Technology",
+    "Open Source"
+  ],
+  quote: "Coding during the day, studying medicine at night. Pretty cool combo, right? 😎"
+};
+```
 
-<a href="https://www.php.net" target="_blank">
-<img src="https://img.shields.io/badge/PHP-7a86b8?style=for-the-badge&logo=php&logoColor=white" />
-</a>
+---
 
-<!-- Framworks  -->
-<a href="https://nodejs.org" target="_blank">
-<img src="https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white" />
-</a>
+## 🎯 What I'm Working On
 
-<a href="https://expressjs.com" target="_blank">
-<img src="https://img.shields.io/badge/Express.js-2ea1ff?style=for-the-badge&logo=express&logoColor=white" />
-</a>
+- 🔭 Building awesome projects with **React** and **Vue.js**
+- 🌱 Learning more about **Cloud Engineering** and **DevOps**
+- 👯 Looking to collaborate on **Open Source** projects
+- 💬 Ask me about **Web Development**, **Networking**, or **Medical Tech**
+- 📫 Reach me at: **muxover@jax-development.com**
+- ⚡ Fun fact: I code during the day and study medicine at night! 🏥💻
 
-<!-- DataBases  -->
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://img.shields.io/badge/MangoDB-00ed64?style=for-the-badge&logo=mongodb&logoColor=white" />
-</a>
+---
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white" />
-</a>
+## 🔗 Connect With Me
 
-<!-- Editors  -->
-<a href="https://visualstudio.microsoft.com/#vs-section" target="_blank">
-<img src="https://img.shields.io/badge/Visual%20Studio-5d438e?style=for-the-badge&logo=visualstudio&logoColor=white" />
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-005ba4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</a>
-
-<!-- Other  -->
-<a href="https://heroku.com" target="_blank">
-<img src="https://img.shields.io/badge/Heroku-79589f?style=for-the-badge&logo=heroku&logoColor=white" />
-</a>
-
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://img.shields.io/badge/Firebase-f38110?style=for-the-badge&logo=firebase&logoColor=white" />
-</a>
-
-<h3 align="left">Contact&Support:</h3>
-
-<a href="https://github.com/sadvoting/" target="_blank">
-<img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=whitev" />
-</a>
-
-<a href="https://www.instagram.com/y4u/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-da0cc0?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://ko-fi.com/sadvoting" target="_blank">
-<img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-e55253?style=for-the-badge&logo=ko-fi&logoColor=white" />
-</a>
-
-<h3 align="left">GitHub Profile Status:</h3>
 <p align="center">
-<a href="https://github.com/sadvoting/github-readme-stats"><img alt="Sadvoting's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sadvoting&show_icons=true&count_private=true&theme=graywhite" height="192px"/></a>
+  <a href="https://muxover.is-a.dev/" target="_blank" title="Website">
+    <img src="https://img.shields.io/badge/Website-7b1ce7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://github.com/muxover" target="_blank" title="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-7b1ce7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/muxover" target="_blank" title="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-7b1ce7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/muxover" target="_blank" title="Twitter/X">
+    <img src="https://img.shields.io/badge/Twitter/X-7b1ce7?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
+  </a>
+  <a href="https://t.me/muxover" target="_blank" title="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-7b1ce7?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:muxover@jax-development.com" target="_blank" title="Email">
+    <img src="https://img.shields.io/badge/Email-7b1ce7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
+
+---
+
+<div align="center">
+  <b>Thanks for visiting! ❤️</b>
+</div>
