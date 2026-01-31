@@ -68,6 +68,9 @@ const muxover = {
   <a href="https://t.me/muxover" target="_blank" title="Telegram">
     <img src="https://img.shields.io/badge/Telegram-7b1ce7?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+  <a href="https://discord.com/users/muxover" target="_blank" title="Telegram">
+    <img src="https://img.shields.io/badge/Discord-7b1ce7?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
   <a href="mailto:muxover@jax-development.com" target="_blank" title="Email">
     <img src="https://img.shields.io/badge/Email-7b1ce7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
