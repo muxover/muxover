@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/muxover.png" width="120" height="120" alt="Jax" />
+  <img src="https://images.weserv.nl/?url=github.com/muxover.png&mask=circle&w=120&h=120" width="120" height="120" alt="Jax" />
 </p>
 
-<h2 align="center">Jax · <code>@muxover</code></h2>
+<h2 align="center">Jax · @muxover</h2>
 <p align="center">
   <b>Developer & Medical Student</b> · Founder @ <b>Jax Development LLC</b>
 </p>
