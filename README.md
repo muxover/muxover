@@ -14,11 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="https://muxover.is-a.dev">Portfolio</a> ·
-  <a href="https://muxover.github.io">Site</a> ·
+  <a href="https://muxover.is-a.dev">Website</a> ·
   <a href="mailto:muxover@jax-development.com">Email</a> ·
   <a href="https://github.com/muxover">GitHub</a> ·
-  <a href="https://x.com/muxover">X</a> ·
   <a href="https://t.me/muxover">Telegram</a> ·
   <a href="https://instagram.com/muxover">Instagram</a>
 </p>
@@ -75,8 +73,8 @@ I started coding in 2019 with simple scripts, and over time it's grown into a tr
   <img src="https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-1a1a1a?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Terraform-1a1a1a?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-1a1a1a?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=googlecloud&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-1a1a1a?style=flat-square&logo=googlecloud&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Google_Cloud-1a1a1a?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
 </p>
 <p align="center">
@@ -90,8 +88,8 @@ I started coding in 2019 with simple scripts, and over time it's grown into a tr
 
 I maintain active repositories on GitHub where I build, experiment, and share code. My projects range from full-scale production systems to smaller experiments and open-source contributions. Each one reflects my curiosity, problem-solving approach, and passion for learning. Feel free to explore and see what I'm currently working on!
 
-- [github.com/muxover](https://github.com/muxover)
-- [muxover.is-a.dev](https://muxover.is-a.dev) — portfolio & featured work
+- [github.com/muxover](https://github.com/muxover) - open source projects
+- [muxover.is-a.dev](https://muxover.is-a.dev) — website where you find everything about me.
 
 ---
 
@@ -102,10 +100,9 @@ I maintain active repositories on GitHub where I build, experiment, and share co
 Whether you want to collaborate, have a project idea, or just want to say hi, don't hesitate to reach out. I love connecting with fellow developers, curious minds, and anyone interested in technology or medicine. Let's create something great together.
 
 <p align="center">
-  <a href="https://muxover.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=flat-square&logo=link&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://muxover.is-a.dev"><img src="https://img.shields.io/badge/Website-1a1a1a?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:muxover@jax-development.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/muxover"><img src="https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://x.com/muxover"><img src="https://img.shields.io/badge/X-1a1a1a?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://t.me/muxover"><img src="https://img.shields.io/badge/Telegram-1a1a1a?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://instagram.com/muxover"><img src="https://img.shields.io/badge/Instagram-1a1a1a?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
