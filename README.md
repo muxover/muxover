@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://images.weserv.nl/?url=github.com/muxover.png&mask=circle&w=110&h=110" width="110" height="110" alt="Jax" />
+</p>
+
 <h2 align="center">Jax · @muxover</h2>
 
 <p align="center">
