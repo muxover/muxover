@@ -1,12 +1,12 @@
 <h2 align="center">Jax</h2>
 
 <p align="center">
-  Developer · Medical Student · Founder @ Jax Development LLC
+  Developer · Medical Student · Social Media Services
 </p>
 
 <p align="center">
-  I build systems that endure — networks, security, automation, and scalable platforms.<br/>
-  Operating Jax Development LLC alongside medical training.
+  I build and optimize software, systems, and automation — tailored to real-world needs.<br/>
+  Independent developer available for development work across a wide range of technical areas.
 </p>
 
 <p align="center">
@@ -25,5 +25,4 @@
   <img src="https://img.shields.io/badge/Contact-000000?style=flat-square&logo=gmail&logoColor=white">
   <img src="https://img.shields.io/badge/Telegram-000000?style=flat-square&logo=telegram&logoColor=white">
   <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white">
-</p>
 </p>
