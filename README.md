@@ -1,12 +1,12 @@
 <h2 align="center">Jax</h2>
 
 <p align="center">
-  Developer · Medical Student · Social Media Services
+  Developer · Medical Student · Social Media Automation
 </p>
 
 <p align="center">
-  I build and optimize software, systems, and automation — tailored to real-world needs.<br/>
-  Independent developer available for development work across a wide range of technical areas.
+  I build and optimize software, automation, and technical solutions tailored to real-world needs.<br/>
+  Independent developer available for a wide range of development work.
 </p>
 
 <p align="center">
@@ -21,8 +21,19 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Site-000000?style=flat-square&logo=markdown&logoColor=white">
-  <img src="https://img.shields.io/badge/Contact-000000?style=flat-square&logo=gmail&logoColor=white">
-  <img src="https://img.shields.io/badge/Telegram-000000?style=flat-square&logo=telegram&logoColor=white">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white">
+  <a href="https://muxover.is-a.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Site-000000?style=flat-square&logo=markdown&logoColor=white">
+  </a>
+
+  <a href="mailto:muxover@jax-development.com">
+    <img src="https://img.shields.io/badge/Contact-000000?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://t.me/muxover" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-000000?style=flat-square&logo=telegram&logoColor=white">
+  </a>
+
+  <a href="https://instagram.com/muxover" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white">
+  </a>
 </p>
