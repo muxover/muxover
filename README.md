@@ -37,6 +37,6 @@
     <img src="https://img.shields.io/badge/Discord-000000?style=flat-square&logo=discord&logoColor=white">
   </a>
   <a href="https://oguser.com/muxover" target="_blank">
-    <img src="https://img.shields.io/badge/OGU-000000?style=flat-square&logo=gravatar&logoColor=white">
+    <img src="https://img.shields.io/badge/OGU-000000?style=flat-square&logo=superuser&logoColor=white">
   </a>
 </p>
