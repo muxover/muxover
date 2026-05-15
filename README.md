@@ -37,6 +37,6 @@
     <img src="https://img.shields.io/badge/Discord-000000?style=flat-square&logo=discord&logoColor=white">
   </a>
   <a href="https://oguser.com/muxover" target="_blank">
-    <img src="https://img.shields.io/badge/OGU-000000?style=flat-square&logo=superuser&logoColor=white">
+    <img src="https://img.shields.io/badge/OGU-000000?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAOCAYAAAA1+Nx+AAABrElEQVR4nI2UMWsUURSFvzubNaBWarFiIRghhSni1lqkt1Cr1KlMbNL7AwL6D1KntRZsVtBCSIh/wC4gBtYuRt3szGcxd2RYds1ceMzjzLnnXt477wKg9vI7VA/Ub+pU/akeqi/VIEPtJXaYnGnmHKjDtmZbfFc9d3F8VAfqLXX0H965ujtbZCd/li3ipLWfqmfqmnqU2MUCbqOx3Yivqr9aCUfqU3VFfajuJf5CfZX732qlvlbXk/tMPZ5p6gHqfgKV9ZleZSbUTfWROm51uDWHV6jv1dPkvgn1BLgDBLARER/UZWCSWD8i/qjPgbep9SkiHqt9oAIE7uZ+GbiRWLkEDFLoB3Bs7ZZJRFg3ZZmXdT+TAhglj4go1SXgHXAPKLMQTYEuUQHXU1zgDChmONeAfq5/UQDfM+kmMMzOr6iRnUdiG5kTwNeIKIFCLRIbA6d5EuY66XrJWy0LjvPCN+fwbqtfWkbYv8ym62nFKq1pWnU793tp5RX1ifo58YvUXG0qX/bQ2sXXrB/doodW5XenEe86KkbWY2JgPTYWxdxR0WXY9VpnHXYcdn8BMb87baJQXjsAAAAASUVORK5CYII=">
   </a>
 </p>
