@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/muxover/muxover.github.io/main/public/favicon.png" width="110" alt="duck" />
 
-# jax
+# Jax
 
 **developer · explorer · builds random cool shit**
 
