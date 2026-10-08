@@ -8,8 +8,7 @@ I've been writing software since 2018. Most of what I build is Go: network tooli
 
 ## Work with me
 
-I take freelance work on backend services, network tooling, integrations and automation.
-Email [contact@muxover.com](mailto:contact@muxover.com) or message me on [Telegram](https://t.me/muxover).
+I take freelance work on backend services, network tooling, integrations and automation.<br>Email [contact@muxover.com](mailto:contact@muxover.com) or message me on [Telegram](https://t.me/muxover).
 
 ## Links
 
