@@ -1,14 +1,16 @@
 # Jax
 
-<p align="center"><b>Backend and full-stack developer. I build backends, web apps and tools for AI agents, as open source, products and freelance work, all under the name muxover.</b></p>
+<p align="center"><b>Backend and full-stack developer, building as muxover.</b></p>
 
 ---
 
-I've been writing software since 2018, self-taught. Most of it is Go and Rust: backend services, network tooling and tools for AI agents, with TypeScript for web apps. Some of it is open source, some becomes a product with its own name, and some is built for clients. I'm also a medical student, so I build in the hours medicine leaves.
+I've been writing code since 2018, self-taught, and I work alone under the name muxover, so every project here is mine from the first commit to the release. Mostly Go and Rust, plus TypeScript, Python and C#. I'm also a medical student, so I build in the hours medicine leaves.
+
+I build backend services and web apps, tools that let AI agents work with real systems, and desktop apps. Some of it is open source and lives right here. A lot more is private: products that aren't open source, my own private projects, and client work, which stays with the client. Start with the pinned repos below. [muxover.com](https://muxover.com) has everything that's public, with every release.
 
 ## Work with me
 
-I take freelance work on backend services, web apps, integrations, network tooling, AI agent tooling and desktop apps. Projects start at $30, and I reply within 24 hours.<br>Email [contact@muxover.com](mailto:contact@muxover.com) or message me on [Telegram](https://t.me/muxover).
+I take freelance work on backend services, web apps, integrations, network tooling, AI agent tooling and desktop apps.<br>Email [contact@muxover.com](mailto:contact@muxover.com) or message me on [Telegram](https://t.me/muxover).
 
 ## Links
 
