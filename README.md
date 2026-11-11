@@ -1,16 +1,18 @@
 # Jax
 
-<p align="center"><b>Backend and full-stack developer, building as muxover.</b></p>
+<p align="center"><b>Medical student and self-taught developer, building as muxover.</b></p>
 
 ---
 
-I've been writing code since 2018, self-taught, and I work alone under the name muxover, so every project here is mine from first commit to release. Mostly Go and Rust, plus JavaScript, TypeScript, Python and C#. I'm also a medical student, so I build in the hours medicine&nbsp;leaves.
+I'm Yousef Khaled, known online as Jax. I'm a medical student and a self-taught developer interested in the networks and infrastructure behind the apps and services we use every day.
 
-I build backend services and web apps, tools that let AI agents work with real systems, and Windows apps. Some of it is open source and lives right here. A lot more is private: products that aren't open source, my own private projects, and client work, which stays with the client. Start with the pinned repos below, and see [muxover.com](https://muxover.com) for my products and client work.
+I got into programming back in 2018, when I got my first PC. C# was my first language, and a few years later I picked up Go. Today I also write Rust, TypeScript, JavaScript and Python, and I build apps and services under the name muxover while keeping up with medical&nbsp;school.
 
-## Work with me
+Some of what I build is open source and lives right here. The rest is private: products that aren't open source and my own projects. Start with the pinned repos below, and see [muxover.com](https://muxover.com) for who I am and what I've&nbsp;built.
 
-I take freelance work on backend services, web apps, integrations, network tooling, AI agent tooling and Windows apps.<br>Email [contact@muxover.com](mailto:contact@muxover.com) or message me on [Telegram](https://t.me/muxover).
+## Say hello
+
+Email [contact@muxover.com](mailto:contact@muxover.com) or message me on [Telegram](https://t.me/muxover).
 
 ## Links
 
